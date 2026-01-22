@@ -52,3 +52,11 @@ I used the Bash shell history feature to recall and execute previous commands us
 
 Command:
 `history`
+
+
+
+Project 1-11: Changing the User Password
+I used the `passwd` command to practice account security. I observed that Linux does not display any characters (not even asterisks) when typing passwords, which is a security feature to prevent shoulder-surfing.
+
+Command
+`passwd`
