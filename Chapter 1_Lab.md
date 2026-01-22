@@ -23,3 +23,8 @@ Command:
  `clear`
 
 
+Project 1-7: Accessing Manual Pages
+I used the `man` command to access the system's built-in manual for the `who` command. This is an essential skill for troubleshooting and learning new command flags.
+
+Commmand:
+`man who`
