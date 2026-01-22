@@ -71,3 +71,12 @@ Command:
 `cat -n /etc/shells`
 
 
+
+Project 1-15: Output Redirection
+I used the `>` operator to redirect the output of the `who` command into a new text file named `current_users`. I then verified the file's contents using the `cat` command.
+
+Commands:
+`who > current_users`
+`cat current_users`
+
+
