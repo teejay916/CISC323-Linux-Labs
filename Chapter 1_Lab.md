@@ -8,3 +8,9 @@ Command:
 `date`
 `Date`
 `date -u`
+
+Project 1-5: Using the 'who' Command
+I used the `who` command with various options (`-H`, `-u`, `-q`) to list logged-in users and session details. I also used `who am i` to verify my specific connection.
+
+Command:
+`who`, `who -H`, `who -uH`, `who -q`, `who am i`, `whoami`
