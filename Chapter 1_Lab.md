@@ -60,3 +60,14 @@ I used the `passwd` command to practice account security. I observed that Linux 
 
 Command
 `passwd`
+
+
+
+Project 1-12: Viewing Files with 'cat'
+I used the `cat` command to view the `/etc/shells` file, which lists the valid shell programs on this system. I also used the `-n` flag to display the output with line numbers.
+
+Command:
+`cat /etc/shells`
+`cat -n /etc/shells`
+
+
