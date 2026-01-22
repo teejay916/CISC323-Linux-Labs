@@ -80,3 +80,12 @@ Commands:
 `cat current_users`
 
 
+
+Project 1-17: Creating and Appending Files
+I practiced creating a text file using `cat >` and appending new data (including a calendar) using `cat >>` and `cal >>`. This demonstrated how to build and modify files without using a text editor.
+
+Commands:
+`cat > notes`
+`cat >> notes`
+`cal 9 2009 >> notes`
+`cat notes`
