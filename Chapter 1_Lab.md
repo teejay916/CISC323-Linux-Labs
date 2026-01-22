@@ -44,3 +44,11 @@ I practiced using Bash shell shortcuts to navigate and edit the command line. Th
 Command:
 `echo $SHELL`
 `who am I` (Edited using shortcuts)
+
+
+
+Project 1-10: Command History
+I used the Bash shell history feature to recall and execute previous commands using the arrow keys. This is a time-saving technique for repeating frequent tasks.
+
+Command:
+`history`
