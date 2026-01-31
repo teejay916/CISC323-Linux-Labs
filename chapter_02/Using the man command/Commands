@@ -1,0 +1,9 @@
+### Project 2-1: Identifying File Systems
+**Action:** I researched the `mount` manual and executed the `mount` command to see all active filesystems.
+
+**Security Context:** Monitoring the `mount` output allows me to verify that the system is using secure filesystem types like **XFS** and to check for mount options that could impact security, such as whether a drive is set to "Read-Only" or "Read-Write."
+
+**Findings:** I observed that my primary root partition is using the [INSERT YOUR TYPE, e.g., XFS] filesystem.
+
+**Evidence:**
+![Project 2-1 Screenshot](Chapter_02/Project-2-1.png)
